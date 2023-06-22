@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **a school projet : AlertMNS (a web messaging App)**
+- 🔭 I’m currently working on **a school projet : AlertMNS (a web messaging App) https://celineintha.github.io/myProjects.html**
 
 - 🌱 I’m currently learning **React and Angular**
 
