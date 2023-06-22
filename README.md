@@ -1,8 +1,8 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **a web messaging App : AlertMNS**
+- 🔭 I’m currently working on **a school projet : *a web messaging App* AlertMNS**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Angular**
 
 - 👨‍💻 All of my projects are available at [https://celineintha.github.io/](https://celineintha.github.io/)
 
