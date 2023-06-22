@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **AlertMNS**
+- 🔭 I’m currently working on **a web messaging App : AlertMNS**
 
 - 🌱 I’m currently learning **React**
 
