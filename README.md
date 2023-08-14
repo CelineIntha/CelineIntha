@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **a showcase website for a restaurant : Palais Banh Bao**
+- 🔭 I’m currently working on **a showcase website for a restaurant : Palais Banh Bao : https://banhbao.fr**
 
 - 🌱 I’m currently learning **React and Angular**
 
