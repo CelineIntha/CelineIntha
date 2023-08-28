@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at[https://celineintha.github.io/myProjects
+- 👨‍💻 All of my projects are available at https://celineintha.github.io/myProjects
 
 - 📫 How to reach me **inthaaphay.celine@gmail.com**
 
