@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **a showcase website for a restaurant : Palais Banh Bao : https://banhbao.fr**
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://celineintha.github.io/](https://celineintha.github.io/)
+- 👨‍💻 All of my projects are available at [https://celineintha.github.io/]([https://celineintha.github.io/](https://celineintha.github.io/myProjects.html))
 
 - 📫 How to reach me **inthaaphay.celine@gmail.com**
 
