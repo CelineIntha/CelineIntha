@@ -3,11 +3,11 @@
 <img style="width: 30%" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 </div>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at https://celineintha.github.io/myProjects
 
-- 📫 How to reach me **inthaaphay.celine@gmail.com**
+- 📫 How to reach me **celine.intha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
