@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at https://celineintha.github.io/myProjects
+- 👨‍💻 All of my projects are available at https://celine-intha.vercel.app/
 
 - 📫 How to reach me **celine.intha@gmail.com**
 
