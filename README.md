@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3 align="center">A passionate developer from France</h3>
-<img style="width: 30%" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
+<img style="width: 70%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5nNW9ncWY5b2tzNjl4NTV0bDdsdDBiN2Z2YzA1eXI5M2dvdWR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 </div>
 
 - 🌱 I’m currently learning **Angular**
