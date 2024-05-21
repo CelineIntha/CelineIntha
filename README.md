@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 🌱 I’m currently working on _**Quiz Adventure (A school project using Angular & Laravel)**_ and _**Banh Bao Website**_
+
 - 👨‍💻 All of my projects are available at https://celine-intha.vercel.app/
 
 - 📫 How to reach me **celine.intha@gmail.com**
