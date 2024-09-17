@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 🌱 I’m currently working on _**Quiz Adventure (A school project using Angular & Laravel)**_
-
 - 👨‍💻 All of my projects are available at https://celine-intha.vercel.app/
 
 - 📫 How to reach me **celine.intha@gmail.com**
@@ -20,7 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celineintha&hide_progress=true)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -37,4 +34,3 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
